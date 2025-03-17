@@ -16,5 +16,6 @@ COPY ./wizexercise.txt /wizexercise.txt
 EXPOSE 8080
 ENTRYPOINT ["/app/tasky"]
 
+#testing build and push
 
 
