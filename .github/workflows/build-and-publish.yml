@@ -33,4 +33,4 @@ jobs:
       with:
        context:
        push: true
-       tags: pbmoses/task-wiz:latest
+       tags: pbmoses/task-wiz:1.0.1
